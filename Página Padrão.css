@@ -1,0 +1,48 @@
+.emily{
+    width: 40.5%;
+    float: right;
+    margin-left: 10px;
+    border-radius: 10px;
+}
+
+.chester{
+    float: left;
+    width: 41%;
+    margin-right: 10px;
+    border-radius: 10px;
+}
+
+.right{
+    float: right;
+}
+
+.left{
+    float: left;
+}
+
+p{
+    text-align: center;
+    padding: 10px;
+    font-family:'Times New Roman', Times, serif;
+    clear: both;
+}
+
+h1{
+    text-align: center;
+    padding: 10px;
+}
+
+.left, .right{
+    font-family:'Times New Roman', Times, serif;
+    color: black;
+    border: 1px solid;
+    border-radius: 5px;
+    margin-top: 25px;
+    width: 45%;
+    text-align: center;
+    padding: 20px;
+}
+
+ol, li{
+    margin-bottom: 20.78px;
+}
